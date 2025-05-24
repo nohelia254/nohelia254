@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/noheliaarequipa/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logo=linkedin&logoColor=F2F2F2" alt="LinkedIn - Nohelia Arequipa" />
   </a>
-  <a href="Email:noheliacami@gmail.com" target="_blank">
+  <a href="mailto:noheliacami@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-4D4577?style=for-the-badge&logo=gmail&logoColor=F2F2F2" alt="Email" />
   </a>
 </p>
